@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JewelryStore.Api", "JewelryStore.Api\JewelryStore.Api.csproj", "{626A2CA6-68D6-4A2A-83A9-07848910FED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeweleryStore.Test", "JeweleryStore.Test\JeweleryStore.Test.csproj", "{BE10EFA3-1B61-40D1-902E-C0481EDD0A56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626A2CA6-68D6-4A2A-83A9-07848910FED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626A2CA6-68D6-4A2A-83A9-07848910FED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626A2CA6-68D6-4A2A-83A9-07848910FED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626A2CA6-68D6-4A2A-83A9-07848910FED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE10EFA3-1B61-40D1-902E-C0481EDD0A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE10EFA3-1B61-40D1-902E-C0481EDD0A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE10EFA3-1B61-40D1-902E-C0481EDD0A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE10EFA3-1B61-40D1-902E-C0481EDD0A56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B1279D5-AA48-4AF7-A623-FF6645CF1FAE}
+	EndGlobalSection
+EndGlobal
